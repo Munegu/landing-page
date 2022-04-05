@@ -109,5 +109,28 @@ h2 {
     height: 150px;
 }
 
+.citation {
+    background-color: #E5E7EB;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    padding: 100px 150px;
+}
+
+q {
+    text-align: justify;
+    font-size: 36px;
+    color: #1F2937;
+    font-style: italic;
+}
+
+strong {
+    align-self: flex-end;
+    font-size: 25px;
+    color: #1F2937;
+    font-weight: extra-bold;
+
+}
+
 
 
