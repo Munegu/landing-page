@@ -132,5 +132,37 @@ strong {
 
 }
 
+.call-to-action {
+    display: flex;
+    align-items: center;
+    margin: 100px 150px;
+    border-radius: 5px;
+    background-color: #3882F6;
+    padding: 25px 75px;
+}
+
+.left-action {
+    flex: 2;
+    color: white;
+}
+
+.right-action {
+    flex: 1;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.btn-action {
+    padding: 10px 20px;
+    text-align: center;
+    text-decoration: none;
+    font-size: 16px;
+    cursor: pointer;
+    border-radius: 10px;
+    border: 2px solid white;
+
+}
+
 
 
